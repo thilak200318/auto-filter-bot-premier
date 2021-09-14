@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developer', url="https://t.me/sabotschannel"
+                                    'Developer', url="https://t.me/malayalammoviesottreleasing"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/sabotschannel'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/sunaif-adkar2/auto-filter-bot-premier')
+        InlineKeyboardButton('Developers', url='https://t.me/malayalammoviesottreleasing'),
+        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/sabotschannel')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/malayalammoviesottreleaing')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
