@@ -8,7 +8,7 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot....😉
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
 For More Details Click Help Button Below..
-@sabotschannel
+@malayalammoviesottreleasing/141
 </i>"""        
     
     HELP_TEXT = """
@@ -41,7 +41,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/sunaif_adkar">© sunaif adkar</a></b>
+<b><a href="https://t.me/malayalammoviesmmms">© LXR YOUTUBER AMAL</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://t.me/sabotschannel/12">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/malayalammoviesottreleasing">💥Click Me</a></b>
 """
