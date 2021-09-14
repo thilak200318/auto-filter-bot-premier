@@ -1601,14 +1601,14 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/sabotschannel/11">✨ CLICK HERE ✨</a>\n"""
-    text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/sabotschannel/12">Source</a>"""
+    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/malayalammoviesottreleasing">✨ CLICK HERE ✨</a>\n"""
+    text+="""\n<b><i>Source Code:</i></b> <a href="https://t.me/malayalammoviesottreleasing/141">Source</a>"""
 
     buttons = [
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/sunaif_adkar"
+                    "My Dev ⚡", url="https://t.me/malayalammoviesmmms"
                 ),
                 
             InlineKeyboardButton
@@ -1639,15 +1639,15 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/sunaif_adkar'),
-            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://t.me/sabotschannel/12')
+            InlineKeyboardButton('👨‍💼𝙼𝚢 𝙳𝚎𝚟', url='https://t.me/malayalammoviesmmms'),
+            InlineKeyboardButton('𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎🧾', url ='https://t.me/malayalammoviesottreleasing/141')
         ],[
             InlineKeyboardButton('⚙️𝙷𝚎𝚕𝚙⚙️', callback_data="help")
         ],[
-            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS'),
-            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/sabotschannel/11')
+            InlineKeyboardButton('🗣️𝙰𝚗𝚢 𝙳𝚘𝚞𝚋𝚝', url='@malayalammoviesmmms'),
+            InlineKeyboardButton('𝚄𝚙𝚍𝚊𝚝𝚎𝚜🤖', url='https://t.me/malayalammoviesottreleasing/140')
         ],[
-            InlineKeyboardButton('🍂 REPO 🍂️', url='https://t.me/sabotschannel/12')
+            InlineKeyboardButton('🍂 REPO 🍂️', url='https://t.me/malayalammoviesottreleasing/141')
         ]]
     
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -1680,10 +1680,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤 SUNAIF ADKAR', url='https://t.me/sunaif_adkar'),
-            InlineKeyboardButton('Support 👤', url='https://chat.whatsapp.com/GS6WZFCyrl60pszygT9wPS')
+            InlineKeyboardButton('👤 LXR YOUTUBER AMAL, url='https://t.me/malayalammoviesmmms'),
+            InlineKeyboardButton('Support 👤', url='https://chat.whatsapp.com/CBKnU789OGpBeCUTsWUs2y')
         ],[
-            InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/sabotschannel/12')
+            InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/malayalammoviesottreleasing/141')
         ],[
             InlineKeyboardButton('🏠 Home', callback_data='start'),
             InlineKeyboardButton('Close 🔐', callback_data='close')
