@@ -13,7 +13,7 @@ over a network, the complete source code of the modified
 version must be made available.
 »https://github.com/AlbertEinsteinTG»https://t.me/sabotschannel/12your main Channel Added from Heroku
 update"""
-MT_BOT_UPDATES = "https://t.me/sabotschannel/12" # eg
+MT_BOT_UPDATES = "https://t.me/malayalammoviesottreleasing/141" # eg
 """your Main Channel"""
-BOT_UPDATES = "https://t.me/sunaif_adkar" # eg
+BOT_UPDATES = "https://t.me/malayalammoviesmmms" # eg
 
