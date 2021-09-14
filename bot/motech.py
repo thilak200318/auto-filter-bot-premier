@@ -15,5 +15,5 @@ version must be made available.
 update"""
 MT_BOT_UPDATES = "https://t.me/malayalammoviesottreleasing/141" # eg
 """your Main Channel"""
-BOT_UPDATES = "https://t.me/malayalammoviesmmms" # eg
+BOT_UPDATES = "https://t.me/LXRYOUTUBERAMAL" # eg
 
