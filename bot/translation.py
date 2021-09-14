@@ -46,9 +46,9 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/sunaif_adkar">👤 Sunaif Adkar</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/malayalammoviesmmms">👤 LXR YOUTUBER AMAL</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/sabotschannel/19">👤SaMods</a></b>
+<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/https://t.me/malayalammoviesottreleasing/141">👤LXRMOODS</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
