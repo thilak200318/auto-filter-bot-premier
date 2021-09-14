@@ -1680,7 +1680,7 @@ async def callback_data(bot, update: CallbackQuery):
 
     elif query_data == "about": 
         buttons = [[
-            InlineKeyboardButton('👤 LXR YOUTUBER AMAL, url='https://t.me/malayalammoviesmmms'),
+            InlineKeyboardButton('👤 LXR YOUTUBER AMAL', url='https://t.me/malayalammoviesmmms'),
             InlineKeyboardButton('Support 👤', url='https://chat.whatsapp.com/CBKnU789OGpBeCUTsWUs2y')
         ],[
             InlineKeyboardButton('🍂 REPO 🍂', url='https://t.me/malayalammoviesottreleasing/141')
