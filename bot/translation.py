@@ -48,7 +48,7 @@ For More Details Click Help Button Below..
 
 <b>>➥👨‍💼Master</b> : <b><a href="https://t.me/LXRBOTSGROUP">👤 LXR YOUTUBER</a></b>
 
-<b>➥ 🎬turtoil video</b> : <b><a href="https://t.me/LXRYOUTUBERYT">👤LXR AMAL BOTS</a></b>
+<b>➥ 🎬turtoil video</b> : <b><a href="https://youtu.be/pgupV-C6B74">👤LXR AMAL BOTS</a></b>
 
 <b>➥ 🗣️Language</b> : <b>Python3<b>
 
