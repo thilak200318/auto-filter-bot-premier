@@ -24,7 +24,7 @@
 ```✤🅵🅾🆁 🅼🅾🆁🅴 🅷🅴🅻🅿 🅹🅾🅸🅽 🆃🅶/🆆🅰 🅶🆁🅾🆄🅿🆂✤```
 ## Deploy
 
-<a href="https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/thilak200318/auto-filter-bot-premier/edit/main/Readme.md">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 <i>
